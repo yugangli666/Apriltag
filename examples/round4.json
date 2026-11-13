@@ -1,0 +1,26 @@
+{
+  "marker": {
+    "family": "tag36h11",
+    "id": 4,
+    "black_border_side_m": 0.05
+  },
+  "image_size_px": [
+    1280,
+    720
+  ],
+  "fps": 15,
+  "tag_processing": "5x Lanczos + unsharp mask 0.6; corners in native pixels",
+  "start_heading_deg": 11.900047345616468,
+  "parked_imu_heading_deg": 0.9383820055447484,
+  "selected_origin_branch": 1,
+  "planned_translation_m": 0.6549,
+  "motion_seconds": 75.686,
+  "odometry_imu_residual_cm": 1.2758542191903812,
+  "parked_5x_frames": 166,
+  "parked_vision_imu_cm": 9.833154313965919,
+  "tape_measurement": {
+    "reported_within_cm": 5,
+    "precise_error_cm": null,
+    "source": "onsite operator report"
+  }
+}

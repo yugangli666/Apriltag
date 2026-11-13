@@ -1,0 +1,22 @@
+{
+  "mode": "tag_pixel_v3_experimental_return",
+  "session": "replace-with-session-id",
+  "command_topic": "/move/AutoMoveCmd",
+  "additional_clearance_m": 0,
+  "max_linear_mps": 0.02,
+  "max_yaw_radps": 0.025,
+  "waist_counts": null,
+  "roi": null,
+  "reference": {"path": "config/local/chassis_reference.json", "sha256": null},
+  "calibration": {"path": "config/local/chassis_calibration.yaml", "sha256": null},
+  "directions": {"path": "config/local/chassis_directions.json", "sha256": null},
+  "validation": {"path": "config/local/validation.json", "sha256": null},
+  "tag40_trial_record": {"path": "config/local/start_or_correction.json", "sha256": null},
+  "goal_pixel_rms_limit": 0.35,
+  "goal_model_budget_m": 0.03,
+  "mission_duration_s": 150,
+  "max_steps": 180,
+  "frame_archive_interval_s": 15,
+  "nominal_motion_gain": null,
+  "user_authorized_tag40_id2_trial": false
+}

@@ -1,0 +1,28 @@
+{
+  "implementation_checks_passed": false,
+  "static_origin_verified": false,
+  "dynamic_direction_replay_passed": false,
+  "base_heading_used": false,
+  "source_sha256": {
+    "config/155_chest.yaml": null,
+    "src/probe_core.py": null,
+    "tools/capture_latest.py": null,
+    "tools/estimate.py": null,
+    "tools/prepare_return.py": null,
+    "tools/return_vision_worker.py": null,
+    "tools/sample_corners.py": null,
+    "tools/tag_corner_servo_v2.py": null
+  },
+  "control_source_sha256": {
+    "motion_trial_20261109/camera_return_core_fast.py": null,
+    "motion_trial_20261109/return_to_origin.py": null,
+    "motion_trial_20261109/run.sh": null,
+    "motion_trial_20261109/short_correction.py": null,
+    "motion_trial_20261109/tag_pixel_v4_single_continuous_watchdog.py": null,
+    "motion_trial_20261109/tag_pixel_v4_single_height_model.py": null,
+    "motion_trial_20261109/tag_pixel_v4_single_pose_imu.py": null,
+    "motion_trial_20261109/tag_pixel_v4_single_tag40_heading_anchor.py": null,
+    "motion_trial_20261109/tag_pixel_v4_single_tag50_pitch_anchor.py": null,
+    "motion_trial_20261109/waist_guard.py": null
+  }
+}

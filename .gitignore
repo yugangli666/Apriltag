@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+config/local/
+reports/
+runtime/
+runtime_deps/
+*.npz
+*.bag
+*.db3
+*.mcap
+*.pem
+*.key

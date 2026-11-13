@@ -1,0 +1,6 @@
+# The stationary worker selects ID 4 and uses zero-correction detections.
+family: tag36h11
+tag_ids: [4]
+threads: 2
+maxhamming: 0
+decimate: 1.0
